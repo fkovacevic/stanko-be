@@ -34,5 +34,6 @@ module.exports = {
 		"no-tabs": 0,
 		"max-len": ["error", { "code": 160 }],
 		"import/no-unresolved": 0,
+		"require-jsdoc": 0,
 	},
 };
